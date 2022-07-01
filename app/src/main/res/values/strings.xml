@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bottle Spinner</string>
+    <string name="aboutApp">Hi, I\'m Matrix.\n\nThis is simple app which enables you to rotate a digital bottle.\nThis app is useful when you want to play Truth or Dare game. You can play with a bunch of friends to make it fun.\n\n\nSerial no: 23\nDate of creation: 5 April 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>
